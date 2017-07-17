@@ -1,2 +1,2 @@
-# Lyrical-GraphQL
-Starter project from a GraphQL course on Udemy.com
+# react-graphql
+Add songs and lyrics using graphql/express/mongo for backend and react for frontend
